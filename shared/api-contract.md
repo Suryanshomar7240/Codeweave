@@ -1,0 +1,1 @@
+echo "# Codeweave API Contract\n\nTo be defined before Part 2." > shared/api-contract.md
