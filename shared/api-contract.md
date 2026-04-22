@@ -1,1 +1,3 @@
-echo "# Codeweave API Contract\n\nTo be defined before Part 2." > shared/api-contract.md
+# Codeweave API Contract
+
+To be defined before Module 2.
